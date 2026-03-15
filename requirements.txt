@@ -1,4 +1,3 @@
-streamlit
-pandas
-plotly
-sqlite3  # Python 自带，一般不用写
+streamlit==1.26.0
+pandas==2.1.0
+plotly==5.15.0
